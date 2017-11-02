@@ -1,4 +1,4 @@
-#Aca voy a realizar una prueba usando el mudolo unitest
+#Aca voy a realizar una prueba usando el moodulo unitest
 import unittest
 import usuario
 
